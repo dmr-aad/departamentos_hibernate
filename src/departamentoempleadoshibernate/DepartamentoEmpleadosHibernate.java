@@ -39,6 +39,7 @@ public class DepartamentoEmpleadosHibernate {
             System.exit(2);
         }
 
+        /*Comentario de prueba*/
         NewHibernateUtil.getSessionFactory();
 
         do {
